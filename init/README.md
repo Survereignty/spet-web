@@ -1,0 +1,1 @@
+Конфигурации системного init (systemd, upstart, sysv) и диспетчера процессов / супервизора (runit, supervisord).
